@@ -30,4 +30,5 @@ dependencies {
     compile 'com.google.code.gson:gson:2.7'
     compile files('libs/glide-3.7.0 (1).jar')
     compile files('libs/okhttp-3.5.0.jar')
+    compile files('libs/litepal-1.4.1.jar')
 }
